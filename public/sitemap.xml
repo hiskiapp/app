@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kia.pages.dev/backup-and-restore-postgresql-database-on-centos-7/</loc>
+    <loc>https://kia0.pages.dev/backup-and-restore-postgresql-database-on-centos-7/</loc>
     <lastmod>2024-02-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kia.pages.dev/blog/</loc>
+    <loc>https://kia0.pages.dev/blog/</loc>
     <lastmod>2024-02-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kia.pages.dev/blog/docker/</loc>
+    <loc>https://kia0.pages.dev/blog/docker/</loc>
     <lastmod>2024-02-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kia.pages.dev/blog/fastapi/</loc>
+    <loc>https://kia0.pages.dev/blog/fastapi/</loc>
     <lastmod>2024-02-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kia.pages.dev/fastapi-deployment-with-docker-on-centos-7/</loc>
+    <loc>https://kia0.pages.dev/fastapi-deployment-with-docker-on-centos-7/</loc>
     <lastmod>2024-02-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kia.pages.dev/</loc>
+    <loc>https://kia0.pages.dev/</loc>
     <lastmod>2024-02-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kia.pages.dev/blog/postgresql/</loc>
+    <loc>https://kia0.pages.dev/blog/postgresql/</loc>
     <lastmod>2024-02-29T00:00:00+00:00</lastmod>
   </url>
 </urlset>

@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Kia ʕ•ᴥ•ʔ</title>
-    <link>https://kia.pages.dev/</link>
+    <link>https://kia0.pages.dev/</link>
     <description>Recent content in Home on Kia ʕ•ᴥ•ʔ</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>Copyright © 2024, Kia.</copyright>
     <lastBuildDate>Thu, 29 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://kia.pages.dev/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kia0.pages.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Backup and Restore PostgreSQL Database on CentOS 7</title>
-      <link>https://kia.pages.dev/backup-and-restore-postgresql-database-on-centos-7/</link>
+      <link>https://kia0.pages.dev/backup-and-restore-postgresql-database-on-centos-7/</link>
       <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://kia.pages.dev/backup-and-restore-postgresql-database-on-centos-7/</guid>
+      <guid>https://kia0.pages.dev/backup-and-restore-postgresql-database-on-centos-7/</guid>
       <description>Databases are crucial components of many systems and software. Thus, knowing how to backup and restore them becomes an essential skill. This article will guide you through the process of backing up and restoring a database in PostgreSQL on a CentOS 7 system.&#xA;Backup The first step is to backup the database. In PostgreSQL, you can use the pg_dump command to achieve this. Here&amp;rsquo;s an example of using this command:</description>
     </item>
     <item>
       <title>FastAPI Deployment with Docker on CentOS 7</title>
-      <link>https://kia.pages.dev/fastapi-deployment-with-docker-on-centos-7/</link>
+      <link>https://kia0.pages.dev/fastapi-deployment-with-docker-on-centos-7/</link>
       <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://kia.pages.dev/fastapi-deployment-with-docker-on-centos-7/</guid>
+      <guid>https://kia0.pages.dev/fastapi-deployment-with-docker-on-centos-7/</guid>
       <description>Firstly, you will need to update your system&amp;rsquo;s default applications to their latest versions:&#xA;sudo yum update -y Next, install the necessary utilities for Docker:&#xA;sudo yum install -y yum-utils device-mapper-persistent-data lvm2 sudo yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo sudo yum install -y docker-ce sudo systemctl start docker &amp;amp;&amp;amp; sudo systemctl enable docker You&amp;rsquo;ll also need to install Docker Compose:&#xA;sudo curl -L &amp;#34;https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)&amp;#34; -o /usr/local/bin/docker-compose sudo chmod +x /usr/local/bin/docker-compose Create a Dockerfile that will specify how your application should be built:</description>
     </item>
   </channel>

@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: https://kia.pages.dev/sitemap.xml
+Sitemap: https://kia0.pages.dev/sitemap.xml
