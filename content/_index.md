@@ -9,4 +9,4 @@ Now, I'm a software engineer.
 
 In the past, I've enjoyed working in web engineering, DevOps, and studying about computer vision and prediction. I studied CS & AI.
 
-Connect with me on [LinkedIn](https://linkedin.com/in/hiskiapp) & [GitHub](https://github.com/hiskiapp).
+Connect with me on [LinkedIn](https://linkedin.com/in/hiskiapp), [GitHub](https://github.com/hiskiapp) or [hi@hiskia.app](mailto:hi@hiskia.app).
