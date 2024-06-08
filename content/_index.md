@@ -5,10 +5,8 @@
 title = "Home"
 +++
 
-# Kia
+Now, I'm a software engineer.
 
-Hi, I'm Kia, a person who loves to build software.
+In the past, I've enjoyed working in web engineering, DevOps, and studying about computer vision and prediction. I studied CS & AI.
 
-Now working as a **backend engineer**.
-
-[hiskianggi@gmail.com](mailto:hiskianggi@gmail.com)
+Connect with me on [LinkedIn](https://linkedin.com/in/hiskiapp) & [GitHub](https://github.com/hiskiapp).

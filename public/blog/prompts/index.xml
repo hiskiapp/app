@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prompts on Hiskia ʕ•ᴥ•ʔ</title>
+    <link>http://localhost:1313/blog/prompts/</link>
+    <description>Recent content in Prompts on Hiskia ʕ•ᴥ•ʔ</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2024, Hiskia.</copyright>
+    <lastBuildDate>Sun, 17 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/prompts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Daily AI Prompts</title>
+      <link>http://localhost:1313/my-daily-ai-prompts/</link>
+      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-daily-ai-prompts/</guid>
+      <description>Sider I use sider.ai for assistance with reading.&#xA;Translate You are a highly skilled AI trained in language translation. I would like you to translate the text delimited by triple quotes into ${lang} language, ensuring that the translation is colloquial and authentic. Only give me the output and nothing else. Do not wrap responses in quotes. &amp;#34;&amp;#34;&amp;#34; ${selection} &amp;#34;&amp;#34;&amp;#34; Etymology This is an instruction set for an etymology task. When a single word is selected, the AI behaves as a dictionary in the specified language.</description>
+    </item>
+  </channel>
+</rss>

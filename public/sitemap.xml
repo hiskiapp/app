@@ -2,25 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kia0.pages.dev/backup-and-restore-postgresql-database-on-centos-7/</loc>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-daily-ai-prompts/</loc>
+    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/prompts/</loc>
+    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/backup-and-restore-postgresql-database-on-centos-7/</loc>
     <lastmod>2024-02-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kia0.pages.dev/blog/</loc>
+    <loc>http://localhost:1313/blog/docker/</loc>
     <lastmod>2024-02-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kia0.pages.dev/blog/docker/</loc>
+    <loc>http://localhost:1313/blog/fastapi/</loc>
     <lastmod>2024-02-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kia0.pages.dev/blog/fastapi/</loc>
+    <loc>http://localhost:1313/fastapi-deployment-with-docker-on-centos-7/</loc>
     <lastmod>2024-02-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kia0.pages.dev/fastapi-deployment-with-docker-on-centos-7/</loc>
-    <lastmod>2024-02-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kia0.pages.dev/</loc>
-    <lastmod>2024-02-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kia0.pages.dev/blog/postgresql/</loc>
+    <loc>http://localhost:1313/blog/postgresql/</loc>
     <lastmod>2024-02-29T00:00:00+00:00</lastmod>
   </url>
 </urlset>
