@@ -5,8 +5,8 @@
 title = "Home"
 +++
 
-Now, I'm a software engineer.
+I am currently a software engineer.
 
-In the past, I've enjoyed working in web engineering, DevOps, and studying computer vision & prediction. I studied CS & AI during my Bachelor's degree.
+I enjoy working on web engineering and DevOps. I studied Computer Science and Artificial Intelligence (with a focus on computer vision and prediction) during my bachelor's degree.
 
 Connect with me on [LinkedIn](https://linkedin.com/in/hiskiapp), [GitHub](https://github.com/hiskiapp) or [hi@hiskia.app](mailto:hi@hiskia.app).
