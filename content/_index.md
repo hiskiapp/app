@@ -7,6 +7,6 @@ title = "Home"
 
 Now, I'm a software engineer.
 
-In the past, I've enjoyed working in web engineering, DevOps, and studying about computer vision and prediction. I studied CS & AI.
+In the past, I've enjoyed working in web engineering, DevOps, and studying computer vision & prediction. I studied CS & AI during my Bachelor's degree.
 
 Connect with me on [LinkedIn](https://linkedin.com/in/hiskiapp), [GitHub](https://github.com/hiskiapp) or [hi@hiskia.app](mailto:hi@hiskia.app).
